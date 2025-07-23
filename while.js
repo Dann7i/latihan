@@ -35,3 +35,4 @@ let nilai1 = 1;
 while ((nilai1, 10)) {
   console.log("hello world " + nilai1 + "x");
 }
+//
