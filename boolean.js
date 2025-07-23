@@ -1,6 +1,6 @@
 // Rab, 25 Jun 2025
 
-// boolean true or false?
+// boolean true atau false
 
 const menurutGeorge_Boole1954 = `"boolean adalah sebuah tipe data yang digunakan\nuntuk mepresentasikan logika (True)  or\t(False) 
 biasanya digunkan pada statement pengkondisian\nuntuk menentukan aksi yg berbeda dan mengatur alur kembali program."`;
